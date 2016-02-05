@@ -1,0 +1,5 @@
+001,Evan,Phillips,(972)974-1234,9 Radcliff Dr,Computer Science,4.0
+002,John,Lennon,(212)699-7969,19 Main St,Physics,3.2
+003,Pual,MacCartney,(469)258-7954,23 Elm St,Liberal Arts,2.7
+004,George,Harris,(917)195-1979,34 Crooked Hill Dr,Music,3.8
+005,Ringo,Starr,(512)978-5555,45 Stone Dr,Business,2.0
